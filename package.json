@@ -1,0 +1,14 @@
+{
+  "name": "blogdemo-master",
+  "version": "1.0.0",
+  "description": "A Simple Blogger site built with MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
